@@ -9,3 +9,7 @@
 ❓ Why should I use Twiz?
 
 - Twiz is an amazing website you should use! It will have: Currency systems, leaderboards, weekly competitions, etc!
+
+## Ideas that need to be implemented
+
+![idea](./public/images/idea.png)
